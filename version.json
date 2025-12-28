@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "buildNumber": 2,
+  "releaseNotes": "🎉 Versão Nova\n✨ Sistema de agenda completo\n🔄 Atualizações automáticas",
+  "assetsUrl": "https://github.com/SEU_USUARIO/SEU_REPO/releases/download/v1.0.0/bundle.zip",
+  "forceUpdate": false,
+  "minimumNativeVersion": "1.0.0"
+}
