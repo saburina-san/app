@@ -12,7 +12,7 @@ interface AppVersion {
 
 const CURRENT_VERSION = '1.0.0';
 const CURRENT_BUILD = 2;
-const UPDATE_CHECK_URL = 'https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/version.json';
+const UPDATE_CHECK_URL = 'https://saburina-san.github.io/app/version.json';
 
 export class UpdateService {
   private static instance: UpdateService;
